@@ -40,6 +40,7 @@ namespace TicTacToe
         private void howToPlayToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Are you serious???", "How To Play?");
+            //hello
         }
     } 
 }
